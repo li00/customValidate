@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="validate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/validate_jar</output-path>
+    <root id="archive" name="validate.jar">
+      <element id="module-output" name="validate" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
